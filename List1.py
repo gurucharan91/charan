@@ -1,0 +1,15 @@
+a=[2, 0.12, True, "Kiran", 4, 50]
+##print("Print is the output fuction which is prints the specified message to the screen")
+##print("input() is input fuction, which is used to take user input in a form of string ")
+##print("The int() function is converts the specified value into Interger Number")
+print(a)
+a.insert(3, "Gurucharan")
+print(a)
+a.append("Srinith")
+print(a)
+a.remove("Srinith")
+print(a)
+a.pop(3)
+print(a)
+print(len(a))
+
